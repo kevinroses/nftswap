@@ -1,7 +1,6 @@
 {
   "name": "mistswap-interface",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "analyze": "ANALYZE=true yarn build && serve .next -n",
     "dev": "next dev",
